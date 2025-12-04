@@ -1,0 +1,42 @@
+©　2025　Hiroko-same　All rights reserved.
+
+本ソフトウェア（Pygame_tetris）は、非営利目的の場合に限り
+個人利用または学習目的での使用を許可します。
+本ソフトウェアを使用する責任はユーザー側にあるものとし、
+本ソフトウェアによって何らかの損害を被った場合も過失はユーザー側にあるものとします。
+以下の行為を禁止します：
+
+１．本ソフトウェアを使用した商品の販売
+２. 本ソフトウェア自体の再配布・販売
+３. 本ソフトウェアの改変、派生物の作成
+
+ライセンス：
+Creative Commons 
+Attribution-NonCommercial-NonDerivatives 
+4.0 International(CC By-NC-ND 4.0)
+
+---
+English
+
+©　2025　Hiroko-same　All rights reserved.
+
+This software(Pygame_tetris) is licensed under
+Creative Commons 
+Attribution-NonCommercial-NonDerivatives 
+4.0 International(CC By-NC-ND 4.0).
+
+You are permited to use this software only for private or educational purposes,
+and only for non-commercial use.
+
+The responsibility for using this software lies with the user, 
+and if any damage occurs as a result of using this software, 
+the user will be considered at fault.
+
+The following actions are prohibited:
+１．Selling any products that include or use this software
+２. Redistributing, reselling, or selling this software itself
+３. Modifying or creating derivative works based on this software
+
+ 
+
+
